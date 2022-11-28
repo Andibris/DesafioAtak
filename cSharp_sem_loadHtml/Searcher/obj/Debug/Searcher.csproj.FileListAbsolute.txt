@@ -1,0 +1,13 @@
+C:\Users\Anderson\source\repos\Searcher\Searcher\bin\Debug\Searcher.exe.config
+C:\Users\Anderson\source\repos\Searcher\Searcher\bin\Debug\Searcher.exe
+C:\Users\Anderson\source\repos\Searcher\Searcher\bin\Debug\Searcher.pdb
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.csproj.AssemblyReference.cache
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.Form1.resources
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.Properties.Resources.resources
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.csproj.GenerateResource.cache
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.exe
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.pdb
+C:\Users\Anderson\source\repos\Searcher\Searcher\bin\Debug\HtmlAgilityPack.NetCore.dll
+C:\Users\Anderson\source\repos\Searcher\Searcher\obj\Debug\Searcher.csproj.CopyComplete
